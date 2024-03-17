@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NemoNiraj
+- 👋 Hi, I’m Niraj Chavan
 - 👀 I’m interested in New Tech.
-- 🌱 I’m currently learning C#
+- 🌱 I’m a Fullstack Developer at Networcx, a dynamic startup revolutionizing the logistics industry through innovative SaaS solutions. My expertise lies in crafting robust applications using Angular, .Net, and MS-SQL. Passionate about leveraging technology to streamline logistical operations and enhance efficiency.
 - 💞️ I’m looking to collaborate on cutting edge and continuously evolving technical environment.
 - 📫 Reach me- nirajchavan2511@gmail.com
 - 📫 Linkedin- https://www.linkedin.com/in/niraj-chavan-nemo
