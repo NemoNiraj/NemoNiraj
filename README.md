@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niraj Chavan
 - Portfolio - [Niraj's Portfolio](https://nirajchavan.vercel.app/)
-- AI Agent - If you want to know me better ask questions to my [AI Agent here] (https://nirajchavan.vercel.app/ai-candidate-assistant)
+- 🤖 AI Agent - If you want to know me better ask questions to my [AI Agent here](https://nirajchavan.vercel.app/ai-candidate-assistant)
 - 👀 I’m interested in New Tech.
 - 🌱 I’m a Senior Solution Engineer at Onit, a organisation in Legal domain revolutionizing the Legal industry through innovative SaaS solutions. My expertise lies in crafting robust applications using Angular, .Net, and MS-SQL. Passionate about leveraging technology to streamline logistical operations and enhance efficiency.
 - 💞️ I’m looking to collaborate on cutting edge and continuously evolving technical environment.
